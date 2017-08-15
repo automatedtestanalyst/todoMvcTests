@@ -1,0 +1,4 @@
+Maintain ToDo List
+In order to remember tasks to be done and completed
+As a user
+I want to be able to create, visualize and maintain a list of TODO items.
